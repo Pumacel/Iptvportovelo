@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0021)https://pumacel.github.io/iptvportovelo/ -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
@@ -9,13 +9,13 @@
 
 	<!-- This site is optimized with the Yoast SEO Premium plugin v18.2.1 (Yoast SEO v20.9) - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Home - Fuxion TV</title><link rel="preload" as="style" href="./Home - Fuxion TV_files/css"><link rel="stylesheet" href="./Home - Fuxion TV_files/css" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Manrope%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600%21%2C700%2C700i%2C800%2C800i%26amp%3Bsubset%3Dlatin%2Clatin-ext%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
-	<link rel="canonical" href="https://fuxionhd.com/">
+	<link rel="canonical" href="https://pumacel.github.io/iptvportovelo/">
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Home">
 	<meta property="og:description" content="$7.00 AL Mes DISFRUTA DE TODO EL ENTRETENIMIENTO EN UN SOLO LUGAR Descubre el verdadero entretenimiento Ofreciendo entretenimiento de alta calidad con precios de primer nivel. Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en vivo y 10 000 películas (se pueden actualizar para obtener más) y programas de TV […]">
-	<meta property="og:url" content="https://fuxionhd.com/">
-	<meta property="og:site_name" content="Fuxion TV">
+	<meta property="og:url" content="pumacel.github.io/iptvportovelo/">
+	<meta property="og:site_name" content="Speed TV">
 	<meta property="article:publisher" content="https://www.facebook.com/akyhay">
 	<meta property="article:modified_time" content="2023-11-10T20:50:26+00:00">
 	<meta property="og:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
@@ -23,41 +23,41 @@
 	<meta name="twitter:site" content="@AkyhayDeTodoPe">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="8 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://fuxionhd.com/","url":"https://fuxionhd.com/","name":"Home - Fuxion TV","isPartOf":{"@id":"https://fuxionhd.com/#website"},"about":{"@id":"https://fuxionhd.com/#organization"},"primaryImageOfPage":{"@id":"https://fuxionhd.com/#primaryimage"},"image":{"@id":"https://fuxionhd.com/#primaryimage"},"thumbnailUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","datePublished":"2022-10-15T01:35:55+00:00","dateModified":"2023-11-10T20:50:26+00:00","breadcrumb":{"@id":"https://fuxionhd.com/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://fuxionhd.com/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://fuxionhd.com/#primaryimage","url":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","contentUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png"},{"@type":"BreadcrumbList","@id":"https://fuxionhd.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://fuxionhd.com/#website","url":"https://fuxionhd.com/","name":"Fuxion TV","description":"Te Entretiene","publisher":{"@id":"https://fuxionhd.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fuxionhd.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://fuxionhd.com/#organization","name":"akyhay de todo","url":"https://fuxionhd.com/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://fuxionhd.com/#/schema/logo/image/","url":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","contentUrl":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","width":2148,"height":1146,"caption":"akyhay de todo"},"image":{"@id":"https://fuxionhd.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/akyhay","https://twitter.com/AkyhayDeTodoPe","https://www.instagram.com/akyhay_peru/","https://www.youtube.com/channel/UC0_cnixxbsuo4F1KDddDi_g"]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://fuxionhd.com/","url":"pumacel.github.io/iptvportovelo/","name":"Home - Speed TV","isPartOf":{"@id":"https://pumacel.github.io/iptvportovelo/#website"},"about":{"@id":"https://fuxionhd.com/#organization"},"primaryImageOfPage":{"@id":"https://fuxionhd.com/#primaryimage"},"image":{"@id":"https://pumacel.github.io/iptvportovelo/#primaryimage"},"thumbnailUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","datePublished":"2022-10-15T01:35:55+00:00","dateModified":"2023-11-10T20:50:26+00:00","breadcrumb":{"@id":"https://pumacel.github.io/iptvportovelo/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["pumacel.github.io/iptvportovelo/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://pumacel.github.io/iptvportovelo/#primaryimage","url":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","contentUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png"},{"@type":"BreadcrumbList","@id":"https://pumacel.github.io/iptvportovelo/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://pumacel.github.io/iptvportovelo/#website","url":"https://pumacel.github.io/iptvportovelo/","name":"Speed TV","description":"Te Entretiene","publisher":{"@id":"https://pumacel.github.io/iptvportovelo/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fuxionhd.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://pumacel.github.io/iptvportovelo/#organization","name":"akyhay de todo","url":"pumacel.github.io/iptvportovelo/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://pumacel.github.io/iptvportovelo/#/schema/logo/image/","url":"https://pumacel.github.io/iptvportovelo/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","contentUrl":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","width":2148,"height":1146,"caption":"akyhay de todo"},"image":{"@id":"https://pumacel.github.io/iptvportovelo/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/akyhay","https://twitter.com/AkyhayDeTodoPe","https://www.instagram.com/akyhay_peru/","https://www.youtube.com/channel/UC0_cnixxbsuo4F1KDddDi_g"]}]}</script>
 	<meta name="google-site-verification" content="bRHjFZdqApzuwCHnzUz-FUSXSPHI32JWt8mE5GYAGfk">
 	<!-- / Yoast SEO Premium plugin. -->
 
 
-<meta name="dc.title" content="Fuxion TV">
+<meta name="dc.title" content="Speed TV">
 <meta name="dc.description" content="Te Entretiene">
-<meta name="dc.relation" content="https://fuxionhd.com/">
-<meta name="dc.source" content="https://fuxionhd.com/">
+<meta name="dc.relation" content="https://pumacel.github.io/iptvportovelo/">
+<meta name="dc.source" content="https://pumacel.github.io/iptvportovelo/">
 <meta name="dc.language" content="es_ES">
 <meta name="description" content="Te Entretiene">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://fuxionhd.com/">
+<link rel="canonical" href="https://pumacel.github.io/iptvportovelo/">
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Fuxion TV","alternateName":"Fuxion TV","description":"Te Entretiene","url":"https:\/\/fuxionhd.com","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/fuxionhd.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
-<meta property="og:url" content="https://fuxionhd.com/">
+<meta property="og:url" content="https://pumacel.github.io/iptvportovelo/">
 <meta property="og:site_name" content="Fuxion TV">
 <meta property="og:locale" content="es_ES">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Fuxion TV">
+<meta property="og:title" content="Speed TV">
 <meta property="og:description" content="Te Entretiene">
 <meta property="og:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <meta property="og:image:secure_url" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="https://twitter.com/akyhay1">
 <meta name="twitter:creator" content="https://twitter.com/akyhay1">
-<meta name="twitter:title" content="Fuxion TV">
+<meta name="twitter:title" content="Speed TV">
 <meta name="twitter:description" content="Te Entretiene">
 <meta name="twitter:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 <link href="https://fonts.gstatic.com/" crossorigin="" rel="preconnect">
-<link rel="alternate" type="application/rss+xml" title="Fuxion TV » Feed" href="https://fuxionhd.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Fuxion TV » Feed de los comentarios" href="https://fuxionhd.com/comments/feed/">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Akyhay De Todo","url":"https:\/\/fuxionhd.com","alternateName":"Fuxion TV","description":"Fuxion TV","logo":"https:\/\/fuxionhd.com\/wp-content\/uploads\/2022\/05\/LOGO-explendopr-blanco-1.png","sameAs":["https:\/\/www.facebook.com\/akyhay","https:\/\/twitter.com\/https:\/\/twitter.com\/akyhay1","https:\/\/www.instagram.com\/akyhay_peru\/","https:\/\/www.youtube.com\/channel\/UCKgE6obphj-Br60i0VQH6bg"],"contactPoint":[{"@type":"ContactPoint","email":"ventas@fuxionhd.com","contactType":"customer support"}]}</script>
+<link rel="alternate" type="application/rss+xml" title="Speed TV » Feed" href="https://pumacel.github.io/iptvportovelo/feed/">
+<link rel="alternate" type="application/rss+xml" title="Speed TV » Feed de los comentarios" href="https://pumacel.github.io/iptvportovelo/comments/feed/">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Akyhay De Todo","url":"https:\/\/fuxionhd.com","alternateName":"Speed TV","description":"Speed TV","logo":"https:\/\/fuxionhd.com\/wp-content\/uploads\/2022\/05\/LOGO-explendopr-blanco-1.png","sameAs":["https:\/\/www.facebook.com\/akyhay","https:\/\/twitter.com\/https:\/\/twitter.com\/akyhay1","https:\/\/www.instagram.com\/akyhay_peru\/","https:\/\/www.youtube.com\/channel\/UCKgE6obphj-Br60i0VQH6bg"],"contactPoint":[{"@type":"ContactPoint","email":"ventas@fuxionhd.com","contactType":"customer support"}]}</script>
 <style id="wp-emoji-styles-inline-css">
 
 	img.wp-smiley, img.emoji {
