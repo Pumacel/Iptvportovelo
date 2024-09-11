@@ -1,5 +1,4 @@
-
-<!-- saved from url=(0021)https://pumacel.github.io/iptvportovelo/ -->
+<!-- saved from url=(0021)https://fuxionhd.com/ -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,56 +7,68 @@
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO Premium plugin v18.2.1 (Yoast SEO v20.9) - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Home - Fuxion TV</title><link rel="preload" as="style" href="./Home - Fuxion TV_files/css"><link rel="stylesheet" href="./Home - Fuxion TV_files/css" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Manrope%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600%21%2C700%2C700i%2C800%2C800i%26amp%3Bsubset%3Dlatin%2Clatin-ext%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
-	<link rel="canonical" href="https://pumacel.github.io/iptvportovelo/">
+	<title>Home - Fuxion TV</title><link rel="preload" as="style" href="./Home - Speed Tv_files/css"><link rel="stylesheet" href="./Home - Speed Tv_files/css" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Manrope%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600%21%2C700%2C700i%2C800%2C800i%26amp%3Bsubset%3Dlatin%2Clatin-ext%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
+	<link rel="canonical" href="https://fuxionhd.com/">
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Home">
 	<meta property="og:description" content="$7.00 AL Mes DISFRUTA DE TODO EL ENTRETENIMIENTO EN UN SOLO LUGAR Descubre el verdadero entretenimiento Ofreciendo entretenimiento de alta calidad con precios de primer nivel. Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en vivo y 10 000 películas (se pueden actualizar para obtener más) y programas de TV […]">
-	<meta property="og:url" content="pumacel.github.io/iptvportovelo/">
-	<meta property="og:site_name" content="Speed TV">
+	<meta property="og:url" content="https://fuxionhd.com/">
+	<meta property="og:site_name" content="Fuxion TV">
 	<meta property="article:publisher" content="https://www.facebook.com/akyhay">
 	<meta property="article:modified_time" content="2023-11-10T20:50:26+00:00">
 	<meta property="og:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
-	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:card" ![why-choose-one-shape-2](https://github.com/user-attachments/assets/0de2015e-fa84-4a77-8bb9-c42adfdcc48c)
+![why-choose-one-shape-1](https://github.com/user-attachments/assets/0eddeef0-c01a-48f3-9988-dca913cf77b2)
+![save-money-video-arrow](https://github.com/user-attachments/assets/76e1aece-be7f-4535-bcda-c42012cbbdb4)
+![main-slider-icon](https://github.com/user-attachments/assets/737376cd-0822-4b1b-8787-8a515b4a87a4)
+![live-sports-shape-1](https://github.com/user-attachments/assets/f6fe31ae-3cb6-46bc-9353-a3f543ea258a)
+![fuxionRed](https://github.com/user-attachments/assets/ba458775-2b8c-420b-b51c-1e372a901fb2)
+![about-new-img](https://github.com/user-attachments/assets/5cb88a32-95d6-4915-9ffd-2e5504f276a9)
+![about-1-img-shape](https://github.com/user-attachments/assets/a9bb43ab-8ea7-4864-ba1c-62902548696e)
+![about-1-btn-shape-1](https://github.com/user-attachments/assets/f10fcbc6-3c5b-4bc0-890e-30b1ec4312ad)
+![about-1 1](https://github.com/user-attachments/assets/64ffcbc2-e094-47cc-94d5-679cdb8241f8)
+![about-new-img](https://github.com/user-attachments/assets/41a92a03-fc3e-4422-b9b0-ea1dbd8007f6)
+![about-1-img-shape](https://github.com/user-attachments/assets/cdf25c14-5bae-482e-87f0-7a9347fa2089)
+content="summary_large_image">
 	<meta name="twitter:site" content="@AkyhayDeTodoPe">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="8 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://fuxionhd.com/","url":"pumacel.github.io/iptvportovelo/","name":"Home - Speed TV","isPartOf":{"@id":"https://pumacel.github.io/iptvportovelo/#website"},"about":{"@id":"https://fuxionhd.com/#organization"},"primaryImageOfPage":{"@id":"https://fuxionhd.com/#primaryimage"},"image":{"@id":"https://pumacel.github.io/iptvportovelo/#primaryimage"},"thumbnailUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","datePublished":"2022-10-15T01:35:55+00:00","dateModified":"2023-11-10T20:50:26+00:00","breadcrumb":{"@id":"https://pumacel.github.io/iptvportovelo/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["pumacel.github.io/iptvportovelo/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://pumacel.github.io/iptvportovelo/#primaryimage","url":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","contentUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png"},{"@type":"BreadcrumbList","@id":"https://pumacel.github.io/iptvportovelo/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://pumacel.github.io/iptvportovelo/#website","url":"https://pumacel.github.io/iptvportovelo/","name":"Speed TV","description":"Te Entretiene","publisher":{"@id":"https://pumacel.github.io/iptvportovelo/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fuxionhd.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://pumacel.github.io/iptvportovelo/#organization","name":"akyhay de todo","url":"pumacel.github.io/iptvportovelo/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://pumacel.github.io/iptvportovelo/#/schema/logo/image/","url":"https://pumacel.github.io/iptvportovelo/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","contentUrl":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","width":2148,"height":1146,"caption":"akyhay de todo"},"image":{"@id":"https://pumacel.github.io/iptvportovelo/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/akyhay","https://twitter.com/AkyhayDeTodoPe","https://www.instagram.com/akyhay_peru/","https://www.youtube.com/channel/UC0_cnixxbsuo4F1KDddDi_g"]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://fuxionhd.com/","url":"https://fuxionhd.com/","name":"Home - Fuxion TV","isPartOf":{"@id":"https://fuxionhd.com/#website"},"about":{"@id":"https://fuxionhd.com/#organization"},"primaryImageOfPage":{"@id":"https://fuxionhd.com/#primaryimage"},"image":{"@id":"https://fuxionhd.com/#primaryimage"},"thumbnailUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","datePublished":"2022-10-15T01:35:55+00:00","dateModified":"2023-11-10T20:50:26+00:00","breadcrumb":{"@id":"https://fuxionhd.com/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://fuxionhd.com/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://fuxionhd.com/#primaryimage","url":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png","contentUrl":"http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png"},{"@type":"BreadcrumbList","@id":"https://fuxionhd.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://fuxionhd.com/#website","url":"https://fuxionhd.com/","name":"Fuxion TV","description":"Te Entretiene","publisher":{"@id":"https://fuxionhd.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fuxionhd.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://fuxionhd.com/#organization","name":"akyhay de todo","url":"https://fuxionhd.com/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://fuxionhd.com/#/schema/logo/image/","url":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","contentUrl":"https://fuxionhd.com/wp-content/uploads/2022/05/LOGO-explendopr-blanco-1.png","width":2148,"height":1146,"caption":"akyhay de todo"},"image":{"@id":"https://fuxionhd.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/akyhay","https://twitter.com/AkyhayDeTodoPe","https://www.instagram.com/akyhay_peru/","https://www.youtube.com/channel/UC0_cnixxbsuo4F1KDddDi_g"]}]}</script>
 	<meta name="google-site-verification" content="bRHjFZdqApzuwCHnzUz-FUSXSPHI32JWt8mE5GYAGfk">
 	<!-- / Yoast SEO Premium plugin. -->
 
 
-<meta name="dc.title" content="Speed TV">
+<meta name="dc.title" content="Fuxion TV">
 <meta name="dc.description" content="Te Entretiene">
-<meta name="dc.relation" content="https://pumacel.github.io/iptvportovelo/">
-<meta name="dc.source" content="https://pumacel.github.io/iptvportovelo/">
+<meta name="dc.relation" content="https://fuxionhd.com/">
+<meta name="dc.source" content="https://fuxionhd.com/">
 <meta name="dc.language" content="es_ES">
 <meta name="description" content="Te Entretiene">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://pumacel.github.io/iptvportovelo/">
+<link rel="canonical" href="https://fuxionhd.com/">
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Fuxion TV","alternateName":"Fuxion TV","description":"Te Entretiene","url":"https:\/\/fuxionhd.com","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/fuxionhd.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
-<meta property="og:url" content="https://pumacel.github.io/iptvportovelo/">
+<meta property="og:url" content="https://fuxionhd.com/">
 <meta property="og:site_name" content="Fuxion TV">
 <meta property="og:locale" content="es_ES">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Speed TV">
+<meta property="og:title" content="Fuxion TV">
 <meta property="og:description" content="Te Entretiene">
 <meta property="og:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <meta property="og:image:secure_url" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="https://twitter.com/akyhay1">
 <meta name="twitter:creator" content="https://twitter.com/akyhay1">
-<meta name="twitter:title" content="Speed TV">
+<meta name="twitter:title" content="Fuxion TV">
 <meta name="twitter:description" content="Te Entretiene">
 <meta name="twitter:image" content="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 <link href="https://fonts.gstatic.com/" crossorigin="" rel="preconnect">
-<link rel="alternate" type="application/rss+xml" title="Speed TV » Feed" href="https://pumacel.github.io/iptvportovelo/feed/">
-<link rel="alternate" type="application/rss+xml" title="Speed TV » Feed de los comentarios" href="https://pumacel.github.io/iptvportovelo/comments/feed/">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Akyhay De Todo","url":"https:\/\/fuxionhd.com","alternateName":"Speed TV","description":"Speed TV","logo":"https:\/\/fuxionhd.com\/wp-content\/uploads\/2022\/05\/LOGO-explendopr-blanco-1.png","sameAs":["https:\/\/www.facebook.com\/akyhay","https:\/\/twitter.com\/https:\/\/twitter.com\/akyhay1","https:\/\/www.instagram.com\/akyhay_peru\/","https:\/\/www.youtube.com\/channel\/UCKgE6obphj-Br60i0VQH6bg"],"contactPoint":[{"@type":"ContactPoint","email":"ventas@fuxionhd.com","contactType":"customer support"}]}</script>
+<link rel="alternate" type="application/rss+xml" title="Fuxion TV » Feed" href="https://fuxionhd.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Fuxion TV » Feed de los comentarios" href="https://fuxionhd.com/comments/feed/">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Akyhay De Todo","url":"https:\/\/fuxionhd.com","alternateName":"Fuxion TV","description":"Fuxion TV","logo":"https:\/\/fuxionhd.com\/wp-content\/uploads\/2022\/05\/LOGO-explendopr-blanco-1.png","sameAs":["https:\/\/www.facebook.com\/akyhay","https:\/\/twitter.com\/https:\/\/twitter.com\/akyhay1","https:\/\/www.instagram.com\/akyhay_peru\/","https:\/\/www.youtube.com\/channel\/UCKgE6obphj-Br60i0VQH6bg"],"contactPoint":[{"@type":"ContactPoint","email":"ventas@fuxionhd.com","contactType":"customer support"}]}</script>
 <style id="wp-emoji-styles-inline-css">
 
 	img.wp-smiley, img.emoji {
@@ -86,27 +97,27 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
-<link data-minify="1" rel="stylesheet" id="contact-form-7-css" href="./Home - Fuxion TV_files/styles.css" media="all">
-<link rel="stylesheet" id="animate-css" href="./Home - Fuxion TV_files/animate.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="custom-animate-css" href="./Home - Fuxion TV_files/custom-animate.css" media="all">
-<link rel="stylesheet" id="bootstrap-select-css" href="./Home - Fuxion TV_files/bootstrap-select.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="bxslider-css" href="./Home - Fuxion TV_files/jquery.bxslider.css" media="all">
-<link data-minify="1" rel="stylesheet" id="jarallax-css" href="./Home - Fuxion TV_files/jarallax.css" media="all">
-<link data-minify="1" rel="stylesheet" id="jquery-magnific-popup-css" href="./Home - Fuxion TV_files/jquery.magnific-popup.css" media="all">
-<link rel="stylesheet" id="odometer-css" href="./Home - Fuxion TV_files/odometer.min.css" media="all">
-<link rel="stylesheet" id="owl-carousel-css" href="./Home - Fuxion TV_files/owl.carousel.min.css" media="all">
-<link rel="stylesheet" id="owl-theme-css" href="./Home - Fuxion TV_files/owl.theme.default.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="reey-font-css" href="./Home - Fuxion TV_files/stylesheet.css" media="all">
-<link data-minify="1" rel="stylesheet" id="swiper-css" href="./Home - Fuxion TV_files/swiper.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="timepicker-css" href="./Home - Fuxion TV_files/timePicker.css" media="all">
-<link data-minify="1" rel="stylesheet" id="roofsi-jquery-ui-css" href="./Home - Fuxion TV_files/jquery-ui.css" media="all">
-<link rel="stylesheet" id="zeinet-addon-style-css" href="./Home - Fuxion TV_files/zeinet-addon.css" media="all">
+<link data-minify="1" rel="stylesheet" id="contact-form-7-css" href="./Home - Speed Tv_files/styles.css" media="all">
+<link rel="stylesheet" id="animate-css" href="./Home - Speed Tv_files/animate.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="custom-animate-css" href="./Home - Speed Tv_files/custom-animate.css" media="all">
+<link rel="stylesheet" id="bootstrap-select-css" href="./Home - Speed Tv_files/bootstrap-select.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="bxslider-css" href="./Home - Speed Tv_files/jquery.bxslider.css" media="all">
+<link data-minify="1" rel="stylesheet" id="jarallax-css" href="./Home - Speed Tv_files/jarallax.css" media="all">
+<link data-minify="1" rel="stylesheet" id="jquery-magnific-popup-css" href="./Home - Speed Tv_files/jquery.magnific-popup.css" media="all">
+<link rel="stylesheet" id="odometer-css" href="./Home - Speed Tv_files/odometer.min.css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="./Home - Speed Tv_files/owl.carousel.min.css" media="all">
+<link rel="stylesheet" id="owl-theme-css" href="./Home - Speed Tv_files/owl.theme.default.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="reey-font-css" href="./Home - Speed Tv_files/stylesheet.css" media="all">
+<link data-minify="1" rel="stylesheet" id="swiper-css" href="./Home - Speed Tv_files/swiper.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="timepicker-css" href="./Home - Speed Tv_files/timePicker.css" media="all">
+<link data-minify="1" rel="stylesheet" id="roofsi-jquery-ui-css" href="./Home - Speed Tv_files/jquery-ui.css" media="all">
+<link rel="stylesheet" id="zeinet-addon-style-css" href="./Home - Speed Tv_files/zeinet-addon.css" media="all">
 
-<link data-minify="1" rel="stylesheet" id="zeinet-icons-css" href="./Home - Fuxion TV_files/style.css" media="all">
-<link data-minify="1" rel="stylesheet" id="flaticons-css" href="./Home - Fuxion TV_files/flaticon.css" media="all">
-<link rel="stylesheet" id="bootstrap-css" href="./Home - Fuxion TV_files/bootstrap.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="fontawesome-css" href="./Home - Fuxion TV_files/all.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="zeinet-style-css" href="./Home - Fuxion TV_files/style(1).css" media="all">
+<link data-minify="1" rel="stylesheet" id="zeinet-icons-css" href="./Home - Speed Tv_files/style.css" media="all">
+<link data-minify="1" rel="stylesheet" id="flaticons-css" href="./Home - Speed Tv_files/flaticon.css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="./Home - Speed Tv_files/bootstrap.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="fontawesome-css" href="./Home - Speed Tv_files/all.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="zeinet-style-css" href="./Home - Speed Tv_files/style(1).css" media="all">
 <style id="zeinet-style-inline-css">
 :root {
 			  --zeinet-primary: #000000;
@@ -122,29 +133,29 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 
 				}.page-header-bg { background-image: url(); }
 </style>
-<link data-minify="1" rel="stylesheet" id="zeinet-dark-mode-css" href="./Home - Fuxion TV_files/zeinet-dark.css" media="all">
-<link data-minify="1" rel="stylesheet" id="elementor-icons-ekiticons-css" href="./Home - Fuxion TV_files/ekiticons.css" media="all">
-<link data-minify="1" rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="./Home - Fuxion TV_files/public.css" media="all">
-<link data-minify="1" rel="stylesheet" id="elementor-icons-css" href="./Home - Fuxion TV_files/elementor-icons.min.css" media="all">
-<link rel="stylesheet" id="elementor-frontend-css" href="./Home - Fuxion TV_files/frontend-lite.min.css" media="all">
-<link rel="stylesheet" id="elementor-post-8-css" href="./Home - Fuxion TV_files/post-8.css" media="all">
-<link data-minify="1" rel="stylesheet" id="font-awesome-5-all-css" href="./Home - Fuxion TV_files/all(1).min.css" media="all">
-<link rel="stylesheet" id="font-awesome-4-shim-css" href="./Home - Fuxion TV_files/v4-shims.min.css" media="all">
-<link rel="stylesheet" id="elementor-post-42-css" href="./Home - Fuxion TV_files/post-42.css" media="all">
-<link data-minify="1" rel="stylesheet" id="ekit-widget-styles-css" href="./Home - Fuxion TV_files/widget-styles.css" media="all">
-<link data-minify="1" rel="stylesheet" id="ekit-responsive-css" href="./Home - Fuxion TV_files/responsive.css" media="all">
+<link data-minify="1" rel="stylesheet" id="zeinet-dark-mode-css" href="./Home - Speed Tv_files/zeinet-dark.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-ekiticons-css" href="./Home - Speed Tv_files/ekiticons.css" media="all">
+<link data-minify="1" rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="./Home - Speed Tv_files/public.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-css" href="./Home - Speed Tv_files/elementor-icons.min.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="./Home - Speed Tv_files/frontend-lite.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-8-css" href="./Home - Speed Tv_files/post-8.css" media="all">
+<link data-minify="1" rel="stylesheet" id="font-awesome-5-all-css" href="./Home - Speed Tv_files/all(1).min.css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="./Home - Speed Tv_files/v4-shims.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-42-css" href="./Home - Speed Tv_files/post-42.css" media="all">
+<link data-minify="1" rel="stylesheet" id="ekit-widget-styles-css" href="./Home - Speed Tv_files/widget-styles.css" media="all">
+<link data-minify="1" rel="stylesheet" id="ekit-responsive-css" href="./Home - Speed Tv_files/responsive.css" media="all">
 <style id="rocket-lazyload-inline-css">
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://fuxionhd.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 </style>
 
-<link data-minify="1" rel="stylesheet" id="elementor-icons-shared-1-css" href="./Home - Fuxion TV_files/style(2).css" media="all">
-<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Home - Fuxion TV_files/fontawesome.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Home - Fuxion TV_files/solid.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-regular-css" href="./Home - Fuxion TV_files/regular.min.css" media="all">
-<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-brands-css" href="./Home - Fuxion TV_files/brands.min.css" media="all">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="./Home - Fuxion TV_files/jquery.min.js.descargar" id="jquery-core-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery-migrate.min.js.descargar" id="jquery-migrate-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/v4-shims.min.js.descargar" id="font-awesome-4-shim-js" defer=""></script>
+<link data-minify="1" rel="stylesheet" id="elementor-icons-shared-1-css" href="./Home - Speed Tv_files/style(2).css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Home - Speed Tv_files/fontawesome.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Home - Speed Tv_files/solid.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-regular-css" href="./Home - Speed Tv_files/regular.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-brands-css" href="./Home - Speed Tv_files/brands.min.css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="./Home - Speed Tv_files/jquery.min.js.descargar" id="jquery-core-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery-migrate.min.js.descargar" id="jquery-migrate-js" defer=""></script>
+<script src="./Home - Speed Tv_files/v4-shims.min.js.descargar" id="font-awesome-4-shim-js" defer=""></script>
 <link rel="https://api.w.org/" href="https://fuxionhd.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://fuxionhd.com/wp-json/wp/v2/pages/42"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fuxionhd.com/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.6.2">
 <link rel="shortlink" href="https://fuxionhd.com/">
@@ -158,8 +169,8 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 <noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
 
 <body class="home page-template page-template-elementor_header_footer page page-id-42 wp-custom-logo zeinet-addon custom-cursor elementor-default elementor-template-full-width elementor-kit-8 elementor-page elementor-page-42 e--ua-blink e--ua-edge e--ua-webkit" data-elementor-device-mode="desktop">
-	            <div class="custom-cursor__cursor" style="transform: translate3d(calc(-50% + 619px), calc(-50% + 1px), 0px);"></div>
-            <div class="custom-cursor__cursor-two" style="left: 619px; top: 1px;"></div>
+	            <div class="custom-cursor__cursor" style="transform: translate3d(calc(-50% + 1239px), calc(-50% + 0px), 0px);"></div>
+            <div class="custom-cursor__cursor-two" style="left: 1239px; top: 0px;"></div>
 
 		
 	<div id="page" class="site page-wrapper">
@@ -202,7 +213,7 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 							<a href="https://fuxionhd.com/">
 								<picture decoding="async" id="thm-logo">
 <source type="image/webp" data-lazy-srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp" srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp">
-<img decoding="async" width="117" height="43" src="./Home - Fuxion TV_files/fuxionRed.png" alt="Fuxion TV" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png" data-ll-status="loaded" class="entered lazyloaded">
+<img decoding="async" width="117" height="43" src="./Home - Speed Tv_files/fuxionRed.png" alt="Fuxion TV" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png" data-ll-status="loaded" class="entered lazyloaded">
 </picture>
 <noscript><picture decoding="async" id="thm-logo">
 <source type="image/webp" srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp"/>
@@ -226,7 +237,7 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 											<div class="icon icon-svg">
 												<i aria-hidden="true" class="  far fa-envelope"></i>											</div>
 											<div class="text">
-												<p><a href="mailto:ventas@fuxionhd.com">ventas@fuxionhd.com</a></p>
+												<p><a href="mailto:fxfuxiontv@gmail.com">fxfuxiontv@gmail.com</a></p>
 											</div>
 										</li>
 																	</ul>
@@ -242,7 +253,7 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 						<div class="main-menu__right-bottom">
 							<div class="main-menu__main-menu-box">
 								<a href="https://fuxionhd.com/#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-								<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="main-menu__list one-page-scroll-menu"><li id="menu-item-10710" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-10710"><a href="https://fuxionhd.com/" aria-current="page">Inicio</a></li>
+								<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="main-menu__list one-page-scroll-menu"><li id="menu-item-10710" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-10710 current"><a href="https://fuxionhd.com/" aria-current="page">Inicio</a></li>
 <li id="menu-item-10963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10963"><a href="https://fuxionhd.com/descargas/">Descargas</a></li>
 <li id="menu-item-10684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10684"><a href="https://fuxionhd.com/contact/">Contactanos</a></li>
 </ul></div>							</div>
@@ -259,7 +270,7 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 
 												<p class="main-menu__help-line-sub-title">Linea de Soporte</p>
 
-												<h5 class="main-menu__help-line-number"><a href="tel:+593987586772">+593 98 758 6772</a></h5>
+												<h5 class="main-menu__help-line-number"><a href="tel:+593959681128">+593 95 968 1128</a></h5>
 
 											</div>
 										</div>
@@ -307,11 +318,11 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
 					<ul class="mobile-nav__contact list-unstyled ml-0">
 									<li>
 						<i class="fa fa-envelope"></i>
-						<a href="https://fuxionhd.com/ventas@fuxionhd.com">ventas@fuxionhd.com</a>
+						<a href="https://fuxionhd.com/fxfuxiontv@gmail.com">fxfuxiontv@gmail.com</a>
 					</li>
 													<li>
 						<i class="fa fa-phone-alt"></i>
-						<a href="tel:+593987586772">+593987586772</a>
+						<a href="tel:+593959681128">+593959681128</a>
 					</li>
 										</ul><!-- /.mobile-nav__contact -->
 			<div class="mobile-nav__top">
@@ -386,8 +397,8 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
             },
             &quot;autoplay&quot;: {
             &quot;delay&quot;: 5000            }}">
-            <div class="swiper-wrapper" style="transition-duration: 300ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 1337px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
-                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg&quot;);" data-ll-status="loaded"></div>
+            <div class="swiper-wrapper" style="transition-duration: 300ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1337px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg&quot;);" data-ll-status="entered"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-border"></div>
                         <div class="main-slider-border main-slider-border-two"></div>
@@ -410,7 +421,7 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
                                                                                 <div class="main-slider__bottom">
                                                                                             <p class="main-slider__bottom-text">Adquierlo Ya</p>
                                                                                                                                         <div class="main-slider__icon float-bob-y">
-                                                    <img decoding="async" src="./Home - Fuxion TV_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
+                                                    <img decoding="async" src="./Home - Speed Tv_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -418,8 +429,8 @@ span.wp-block-wpseopress-local-business-field{margin-right:8px}
                             </div>
                         </div>
                     </div>
-                                    <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 1337px; opacity: 1; transform: translate3d(-1337px, 0px, 0px); transition-duration: 300ms;">
-                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg&quot;);" data-ll-status="loaded"></div>
+                                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 1337px; opacity: 1; transform: translate3d(-1337px, 0px, 0px); transition-duration: 300ms;">
+                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg&quot;);" data-ll-status="entered"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-border"></div>
                         <div class="main-slider-border main-slider-border-two"></div>
@@ -443,7 +454,7 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                                                                                 <div class="main-slider__bottom">
                                                                                             <p class="main-slider__bottom-text">Adquierelo Ya</p>
                                                                                                                                         <div class="main-slider__icon float-bob-y">
-                                                    <img decoding="async" src="./Home - Fuxion TV_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
+                                                    <img decoding="async" src="./Home - Speed Tv_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -451,8 +462,8 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                             </div>
                         </div>
                     </div>
-                                    <div class="swiper-slide" data-swiper-slide-index="1" style="width: 1337px; opacity: 1; transform: translate3d(-2674px, 0px, 0px); transition-duration: 300ms;">
-                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider2.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider2.jpg&quot;);" data-ll-status="loaded"></div>
+                                    <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 1337px; opacity: 1; transform: translate3d(-2674px, 0px, 0px); transition-duration: 300ms;">
+                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider2.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider2.jpg&quot;);" data-ll-status="entered"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-border"></div>
                         <div class="main-slider-border main-slider-border-two"></div>
@@ -475,7 +486,7 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                                                                                 <div class="main-slider__bottom">
                                                                                             <p class="main-slider__bottom-text">Adquierlo Ya</p>
                                                                                                                                         <div class="main-slider__icon float-bob-y">
-                                                    <img decoding="async" src="./Home - Fuxion TV_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
+                                                    <img decoding="async" src="./Home - Speed Tv_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -483,8 +494,8 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                             </div>
                         </div>
                     </div>
-                                    <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1337px; opacity: 1; transform: translate3d(-4011px, 0px, 0px); transition-duration: 300ms;">
-                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg&quot;);" data-ll-status="loaded"></div>
+                                    <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 1337px; opacity: 0; transform: translate3d(-4011px, 0px, 0px); transition-duration: 300ms;">
+                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider3.jpg&quot;);" data-ll-status="entered"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-border"></div>
                         <div class="main-slider-border main-slider-border-two"></div>
@@ -507,7 +518,7 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                                                                                 <div class="main-slider__bottom">
                                                                                             <p class="main-slider__bottom-text">Adquierlo Ya</p>
                                                                                                                                         <div class="main-slider__icon float-bob-y">
-                                                    <img decoding="async" src="./Home - Fuxion TV_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
+                                                    <img decoding="async" src="./Home - Speed Tv_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -515,8 +526,8 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                             </div>
                         </div>
                     </div>
-                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 1337px; opacity: 1; transform: translate3d(-5348px, 0px, 0px); transition-duration: 300ms;">
-                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg&quot;);" data-ll-status="loaded"></div>
+                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1337px; opacity: 0; transform: translate3d(-5348px, 0px, 0px); transition-duration: 300ms;">
+                        <div data-bg="https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg" class="image-layer rocket-lazyload entered lazyloaded" style="background-image: url(&quot;https://fuxionhd.com/wp-content/uploads/2022/10/Slider1.jpg&quot;);" data-ll-status="entered"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-border"></div>
                         <div class="main-slider-border main-slider-border-two"></div>
@@ -540,7 +551,7 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
                                                                                 <div class="main-slider__bottom">
                                                                                             <p class="main-slider__bottom-text">Adquierelo Ya</p>
                                                                                                                                         <div class="main-slider__icon float-bob-y">
-                                                    <img decoding="async" src="./Home - Fuxion TV_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
+                                                    <img decoding="async" src="./Home - Speed Tv_files/main-slider-icon.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/main-slider-icon.png" alt="alt"></noscript>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -578,7 +589,7 @@ Regístrese ahora y obtenga acceso instantáneo aMás de 1 000 canales de TV en 
 		<div class="container">
 			<div class="row">
 															<!--Feature One Single Start-->
-						<div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms" style="visibility: hidden; animation-delay: 100ms; animation-name: none;">
+						<div class="col-xl-4 col-lg-4 wow fadeInLeft animated animated animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms;">
 							<div class="feature-one__single">
 								<div class="feature-one__single-content-box">
 																			<div class="feature-one-shape">
@@ -600,7 +611,7 @@ Tecnología H264, ofreciendo la mejor compresión y calidad.											</p>
 						</div>
 						<!--Feature One Single End-->
 										<!--Feature One Single Start-->
-						<div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="200ms" style="visibility: hidden; animation-delay: 200ms; animation-name: none;">
+						<div class="col-xl-4 col-lg-4 wow fadeInLeft animated animated animated" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms;">
 							<div class="feature-one__single">
 								<div class="feature-one__single-content-box">
 																			<div class="feature-one-shape">
@@ -622,7 +633,7 @@ de corrientes no es tan fácil. Lo que sea, aseguramos un tiempo de actividad de
 						</div>
 						<!--Feature One Single End-->
 										<!--Feature One Single Start-->
-						<div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="300ms" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+						<div class="col-xl-4 col-lg-4 wow fadeInLeft animated animated animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms;">
 							<div class="feature-one__single">
 								<div class="feature-one__single-content-box">
 																			<div class="feature-one-shape">
@@ -661,25 +672,25 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 				<div class="elementor-widget-container">
 				<!--About One Start-->
 	<section class="about-one">
-					<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-bg-1.jpg" class="about-one__bg rocket-lazyload" style=""></div><!-- /.about-one__bg -->
+					<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-bg-1.jpg" class="about-one__bg rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-bg-1.jpg&quot;);" data-ll-status="entered"></div><!-- /.about-one__bg -->
 				<div class="container">
 			<div class="row">
 				<div class="col-xl-6">
 					<div class="about-one__left">
-						<div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: hidden; animation-duration: 2500ms; animation-delay: 100ms; animation-name: none;">
+						<div class="about-one__img-box wow slideInLeft animated animated animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms;">
 															<div class="about-one__img-box-shape float-bob-x">
-									<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-img-shape.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-img-shape.png" alt=""></noscript>
+									<img decoding="async" src="./Home - Speed Tv_files/about-1-img-shape.png" alt="" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-img-shape.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-img-shape.png" alt=""></noscript>
 								</div>
 																						<div class="about-one__img-1">
-									<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1.1.jpg"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1.1.jpg" alt="alt"></noscript>
+									<img decoding="async" src="./Home - Speed Tv_files/about-1.1.jpg" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1.1.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1.1.jpg" alt="alt"></noscript>
 								</div>
 																						<div class="about-one__img-2">
-									<img width="370" height="447" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20370%20447&#39;%3E%3C/svg%3E" alt="" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/about-new-img.jpg"><noscript><img width="370" height="447" decoding="async" src="https://fuxionhd.com/wp-content/uploads/2022/10/about-new-img.jpg" alt=""></noscript>
+									<img width="370" height="447" decoding="async" src="./Home - Speed Tv_files/about-new-img.jpg" alt="" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/about-new-img.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="370" height="447" decoding="async" src="https://fuxionhd.com/wp-content/uploads/2022/10/about-new-img.jpg" alt=""></noscript>
 								</div>
 														<div class="about-one-shape"></div>
-															<div class="about-one__count wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 300ms; animation-name: none;">
-																			<h4 class="about-one__count__number count-box">
-											<span class="count-text" data-stop="5000" data-speed="1500"></span>
+															<div class="about-one__count wow fadeInUp animated animated animated" data-wow-duration="1500ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms;">
+																			<h4 class="about-one__count__number count-box counted">
+											<span class="count-text" data-stop="5000" data-speed="1500">5000</span>
 										</h4>
 																												<p class="about-one__count__text">Clientes</p>
 									
@@ -722,7 +733,7 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 																			<div class="about-one__btn-box">
 								<a href="https://admin.fuxionhd.com/index.php?rp=/store/fuxiontv/demo" class="thm-btn about-one__btn">Probar Demo</a>
 																	<div class="about-one__btn-shape float-bob-y">
-										<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-btn-shape-1.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-btn-shape-1.png" alt=""></noscript>
+										<img decoding="async" src="./Home - Speed Tv_files/about-1-btn-shape-1.png" alt="" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-btn-shape-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/about-1-btn-shape-1.png" alt=""></noscript>
 									</div>
 															</div>
 											</div>
@@ -746,10 +757,10 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 				<!--Why Choose One Start-->
 	<section class="why-choose-one">
 					<div class="why-choose-one-shape-1 float-bob-x">
-				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-1.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-1.png" alt="alt"></noscript>
+				<img decoding="async" src="./Home - Speed Tv_files/why-choose-one-shape-1.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-1.png" alt="alt"></noscript>
 			</div>
 							<div class="why-choose-one-shape-2 float-bob-y">
-				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-2.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-2.png" alt="alt"></noscript>
+				<img decoding="async" src="./Home - Speed Tv_files/why-choose-one-shape-2.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-2.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/why-choose-one-shape-2.png" alt="alt"></noscript>
 			</div>
 				<div class="container">
 			<div class="why-choose-one__top">
@@ -771,42 +782,42 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 			</div>
 							<div class="why-choose-one__bottom">
 					<ul class="list-unstyled why-choose-one__list ml-0">
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="100ms" style="visibility: hidden; animation-delay: 100ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="  fas fa-bolt"></span>									</div>
 									<p class="why-choose-one__title">Anti Freeze</p>
 								</div>
 							</li>
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="200ms" style="visibility: hidden; animation-delay: 200ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="  far fa-money-bill-alt"></span>									</div>
 									<p class="why-choose-one__title">Bajos Costo</p>
 								</div>
 							</li>
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="300ms" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="   icon-support-1"></span>									</div>
 									<p class="why-choose-one__title">Soporte 24/7</p>
 								</div>
 							</li>
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="400ms" style="visibility: hidden; animation-delay: 400ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="  fas fa-shield-alt"></span>									</div>
 									<p class="why-choose-one__title">Seguridad</p>
 								</div>
 							</li>
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="500ms" style="visibility: hidden; animation-delay: 500ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="  fas fa-play"></span>									</div>
 									<p class="why-choose-one__title">Ultimas Peliculas</p>
 								</div>
 							</li>
-													<li class="why-choose-one__single wow fadeInUp" data-wow-delay="600ms" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+													<li class="why-choose-one__single wow fadeInUp animated animated animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms;">
 								<div class="why-choose-one__content">
 									<div class="why-choose-one__icon icon-svg-large">
 										<span aria-hidden="true" class="  fab fa-buromobelexperte"></span>									</div>
@@ -832,10 +843,10 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 				<div class="elementor-widget-container">
 				<!--Save Money Start-->
 	<section class="save-money">
-					<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-bg.jpg" class="save-money-bg rocket-lazyload" style=""></div>
-							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1.png" class="save-money-shape rocket-lazyload" style=""></div>
-							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1-1.png" class="save-money-shape-two rocket-lazyload" style=""></div>
-							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-2.png" class="save-money-shape-three rocket-lazyload" style=""></div>
+					<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-bg.jpg" class="save-money-bg rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-bg.jpg&quot;);" data-ll-status="entered"></div>
+							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1.png" class="save-money-shape rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1.png&quot;);" data-ll-status="entered"></div>
+							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1-1.png" class="save-money-shape-two rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-1-1.png&quot;);" data-ll-status="entered"></div>
+							<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-2.png" class="save-money-shape-three rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-shape-2.png&quot;);" data-ll-status="entered"></div>
 				<div class="container">
 			<div class="row">
 				<div class="col-xl-6 col-lg-8">
@@ -868,7 +879,7 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 							<div class="save-money__video-text-box">
 								<p class="save-money__video-text">Ver Video</p>
 																	<div class="save-money__video-arrow float-bob-y">
-										<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-video-arrow.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-video-arrow.png" alt="alt"></noscript>
+										<img decoding="async" src="./Home - Speed Tv_files/save-money-video-arrow.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-video-arrow.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/save-money-video-arrow.png" alt="alt"></noscript>
 									</div>
 															</div>
 						</div>
@@ -1176,14 +1187,14 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 				<!--Live Sports Start-->
 	<section class="live-sports">
 					<div class="live-sports-shape-1 float-bob-x">
-				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-shape-1.png"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-shape-1.png" alt="alt"></noscript>
+				<img decoding="async" src="./Home - Speed Tv_files/live-sports-shape-1.png" alt="alt" data-lazy-src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-shape-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-shape-1.png" alt="alt"></noscript>
 			</div>
 				<div class="live-sports__wrap">
 			<div class="live-sports__left">
 									<div class="live-sports__left__shape">
 						<picture decoding="async">
-<source type="image/webp" data-lazy-srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20929%20832&#39;%3E%3C/svg%3E">
-<img width="929" height="832" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20929%20832&#39;%3E%3C/svg%3E" alt="" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png">
+<source type="image/webp" data-lazy-srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp" srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp">
+<img width="929" height="832" decoding="async" src="./Home - Speed Tv_files/fuxionRed.png" alt="" data-lazy-src="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png" data-ll-status="loaded" class="entered lazyloaded">
 </picture>
 <noscript><picture decoding="async">
 <source type="image/webp" srcset="https://fuxionhd.com/wp-content/uploads/2022/10/fuxionRed.png.webp"/>
@@ -1191,7 +1202,7 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 </picture>
 </noscript>
 					</div>
-													<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-bg.jpg" class="live-sports__bg rocket-lazyload" style=""></div>
+													<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-bg.jpg" class="live-sports__bg rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/live-sports-bg.jpg&quot;);" data-ll-status="loaded"></div>
 											</div>
 			<div class="live-sports__right">
 				<div class="live-sports__content">
@@ -1251,7 +1262,7 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-da23f04 elementor-widget elementor-widget-zeinet-shape" data-id="da23f04" data-element_type="widget" data-widget_type="zeinet-shape.default">
 				<div class="elementor-widget-container">
-						<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/site-footer-shape-bg.png" class="site-footer-shape-bg rocket-lazyload" style=""></div>
+						<div data-bg="http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/site-footer-shape-bg.png" class="site-footer-shape-bg rocket-lazyload entered lazyloaded exited" style="background-image: url(&quot;http://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/site-footer-shape-bg.png&quot;);" data-ll-status="loaded"></div>
 			</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fb3421b site-footer__top  elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb3421b" data-element_type="section">
@@ -1341,7 +1352,7 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="site-footer__bottom-inner">
-											<p class="site-footer__bottom-text"><a href="https://fuxionhd.com/">FuxionTV</a> </p>
+											<p class="site-footer__bottom-text"><a href="https://fuxionhd.com/">Pumacel</a> </p>
 									</div>
 			</div>
 		</div>
@@ -1359,13 +1370,13 @@ siempre listo para ayudar a nuestros valiosos clientes 24/7.											</p>
         
 </div><!-- #page -->
 
-<link rel="stylesheet" id="elementor-post-244-css" href="./Home - Fuxion TV_files/post-244.css" media="all">
-<link rel="stylesheet" id="elementor-post-515-css" href="./Home - Fuxion TV_files/post-515.css" media="all">
-<script src="./Home - Fuxion TV_files/index.js.descargar" id="swv-js" defer=""></script>
+<link rel="stylesheet" id="elementor-post-244-css" href="./Home - Speed Tv_files/post-244.css" media="all">
+<link rel="stylesheet" id="elementor-post-515-css" href="./Home - Speed Tv_files/post-515.css" media="all">
+<script src="./Home - Speed Tv_files/index.js.descargar" id="swv-js" defer=""></script>
 <script id="contact-form-7-js-extra">
 var wpcf7 = {"api":{"root":"https:\/\/fuxionhd.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
 </script>
-<script src="./Home - Fuxion TV_files/index(1).js.descargar" id="contact-form-7-js" defer=""></script>
+<script src="./Home - Speed Tv_files/index(1).js.descargar" id="contact-form-7-js" defer=""></script>
 <script id="rocket-browser-checker-js-after">
 "use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
 </script>
@@ -1377,35 +1388,35 @@ var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$
 "use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
 }());
 </script>
-<script src="./Home - Fuxion TV_files/core.min.js.descargar" id="jquery-ui-core-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/datepicker.min.js.descargar" id="jquery-ui-datepicker-js" defer=""></script>
+<script src="./Home - Speed Tv_files/core.min.js.descargar" id="jquery-ui-core-js" defer=""></script>
+<script src="./Home - Speed Tv_files/datepicker.min.js.descargar" id="jquery-ui-datepicker-js" defer=""></script>
 <script id="jquery-ui-datepicker-js-after">window.addEventListener('DOMContentLoaded', function() {
 jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mi\u00e9","Jue","Vie","S\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
 });</script>
-<script src="./Home - Fuxion TV_files/bootstrap.min.js.descargar" id="bootstrap-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/bootstrap-select.min.js.descargar" id="bootstrap-select-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.bxslider.min.js.descargar" id="jquery-bxslider-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/countdown.min.js.descargar" id="countdown-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/imagesloaded.min.js.descargar" id="imagesloaded-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/isotope.js.descargar" id="isotope-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jarallax.min.js.descargar" id="jarallax-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.ajaxchimp.min.js.descargar" id="jquery-ajaxchimp-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.appear.min.js.descargar" id="jquery-appear-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.easing.min.js.descargar" id="jquery-easing-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.magnific-popup.min.js.descargar" id="jquery-magnific-popup-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.circle-progress.min.js.descargar" id="jquery-circle-progress-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.circleType.js.descargar" id="jquery-circletype-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.lettering.min.js.descargar" id="jquery-lettering-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/odometer.min.js.descargar" id="odometer-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/owl.carousel.min.js.descargar" id="owl-carousel-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/swiper.min.js.descargar" id="swiper-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/wow.js.descargar" id="wow-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/sharer.min.js.descargar" id="sharer-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/timePicker.js.descargar" id="timepicker-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/jquery.validate.min.js.descargar" id="jquery-validate-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/zeinet-addon.js.descargar" id="zeinet-addon-script-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/zeinet-theme.js.descargar" id="zeinet-theme-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/frontend-script.js.descargar" id="elementskit-framework-js-frontend-js" defer=""></script>
+<script src="./Home - Speed Tv_files/bootstrap.min.js.descargar" id="bootstrap-js" defer=""></script>
+<script src="./Home - Speed Tv_files/bootstrap-select.min.js.descargar" id="bootstrap-select-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.bxslider.min.js.descargar" id="jquery-bxslider-js" defer=""></script>
+<script src="./Home - Speed Tv_files/countdown.min.js.descargar" id="countdown-js" defer=""></script>
+<script src="./Home - Speed Tv_files/imagesloaded.min.js.descargar" id="imagesloaded-js" defer=""></script>
+<script src="./Home - Speed Tv_files/isotope.js.descargar" id="isotope-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jarallax.min.js.descargar" id="jarallax-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.ajaxchimp.min.js.descargar" id="jquery-ajaxchimp-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.appear.min.js.descargar" id="jquery-appear-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.easing.min.js.descargar" id="jquery-easing-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.magnific-popup.min.js.descargar" id="jquery-magnific-popup-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.circle-progress.min.js.descargar" id="jquery-circle-progress-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.circleType.js.descargar" id="jquery-circletype-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.lettering.min.js.descargar" id="jquery-lettering-js" defer=""></script>
+<script src="./Home - Speed Tv_files/odometer.min.js.descargar" id="odometer-js" defer=""></script>
+<script src="./Home - Speed Tv_files/owl.carousel.min.js.descargar" id="owl-carousel-js" defer=""></script>
+<script src="./Home - Speed Tv_files/swiper.min.js.descargar" id="swiper-js" defer=""></script>
+<script src="./Home - Speed Tv_files/wow.js.descargar" id="wow-js" defer=""></script>
+<script src="./Home - Speed Tv_files/sharer.min.js.descargar" id="sharer-js" defer=""></script>
+<script src="./Home - Speed Tv_files/timePicker.js.descargar" id="timepicker-js" defer=""></script>
+<script src="./Home - Speed Tv_files/jquery.validate.min.js.descargar" id="jquery-validate-js" defer=""></script>
+<script src="./Home - Speed Tv_files/zeinet-addon.js.descargar" id="zeinet-addon-script-js" defer=""></script>
+<script src="./Home - Speed Tv_files/zeinet-theme.js.descargar" id="zeinet-theme-js" defer=""></script>
+<script src="./Home - Speed Tv_files/frontend-script.js.descargar" id="elementskit-framework-js-frontend-js" defer=""></script>
 <script id="elementskit-framework-js-frontend-js-after">
 		var elementskit = {
 			resturl: 'https://fuxionhd.com/wp-json/elementskit/v1/',
@@ -1413,23 +1424,23 @@ jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","cur
 
 		
 </script>
-<script src="./Home - Fuxion TV_files/widget-scripts.js.descargar" id="ekit-widget-scripts-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/webpack.runtime.min.js.descargar" id="elementor-webpack-runtime-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/frontend-modules.min.js.descargar" id="elementor-frontend-modules-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/waypoints.min.js.descargar" id="elementor-waypoints-js" defer=""></script>
+<script src="./Home - Speed Tv_files/widget-scripts.js.descargar" id="ekit-widget-scripts-js" defer=""></script>
+<script src="./Home - Speed Tv_files/webpack.runtime.min.js.descargar" id="elementor-webpack-runtime-js" defer=""></script>
+<script src="./Home - Speed Tv_files/frontend-modules.min.js.descargar" id="elementor-frontend-modules-js" defer=""></script>
+<script src="./Home - Speed Tv_files/waypoints.min.js.descargar" id="elementor-waypoints-js" defer=""></script>
 <script id="elementor-frontend-js-before">
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.3","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true},"urls":{"assets":"https:\/\/fuxionhd.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":42,"title":"Home%20-%20Fuxion%20TV","excerpt":"","featuredImage":false}};
 </script>
-<script src="./Home - Fuxion TV_files/frontend.min.js.descargar" id="elementor-frontend-js" defer=""></script>
-<script src="./Home - Fuxion TV_files/animate-circle.min.js.descargar" id="animate-circle-js" defer=""></script>
+<script src="./Home - Speed Tv_files/frontend.min.js.descargar" id="elementor-frontend-js" defer=""></script>
+<script src="./Home - Speed Tv_files/animate-circle.min.js.descargar" id="animate-circle-js" defer=""></script>
 <script id="elementskit-elementor-js-extra">
 var ekit_config = {"ajaxurl":"https:\/\/fuxionhd.com\/wp-admin\/admin-ajax.php","nonce":"bfaf7508d2"};
 </script>
-<script src="./Home - Fuxion TV_files/elementor.js.descargar" id="elementskit-elementor-js" defer=""></script>
+<script src="./Home - Speed Tv_files/elementor.js.descargar" id="elementskit-elementor-js" defer=""></script>
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="./Home - Fuxion TV_files/lazyload.min.js.descargar"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="./Home - Speed Tv_files/lazyload.min.js.descargar"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
 
 
 
