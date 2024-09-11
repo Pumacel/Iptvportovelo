@@ -1,18 +1,6 @@
 <!-- saved from url=(0021)https://fuxionhd.com/ -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
-![why-choose-one-shape-1](https://github.com/user-attachments/assets/0eddeef0-c01a-48f3-9988-dca913cf77b2)
-![save-money-video-arrow](https://github.com/user-attachments/assets/76e1aece-be7f-4535-bcda-c42012cbbdb4)
-![main-slider-icon](https://github.com/user-attachments/assets/737376cd-0822-4b1b-8787-8a515b4a87a4)
-![live-sports-shape-1](https://github.com/user-attachments/assets/f6fe31ae-3cb6-46bc-9353-a3f543ea258a)
-![fuxionRed](https://github.com/user-attachments/assets/ba458775-2b8c-420b-b51c-1e372a901fb2)
-![about-new-img](https://github.com/user-attachments/assets/5cb88a32-95d6-4915-9ffd-2e5504f276a9)
-![about-1-img-shape](https://github.com/user-attachments/assets/a9bb43ab-8ea7-4864-ba1c-62902548696e)
-![about-1-btn-shape-1](https://github.com/user-attachments/assets/f10fcbc6-3c5b-4bc0-890e-30b1ec4312ad)
-![about-1 1](https://github.com/user-attachments/assets/64ffcbc2-e094-47cc-94d5-679cdb8241f8)
-![about-new-img](https://github.com/user-attachments/assets/41a92a03-fc3e-4422-b9b0-ea1dbd8007f6)
-![about-1-img-shape](https://github.com/user-attachments/assets/cdf25c14-5bae-482e-87f0-7a9347fa2089)
-content="summary_large_image">
 	<meta name="twitter:site" content="@AkyhayDeTodoPe">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="8 minutos">
